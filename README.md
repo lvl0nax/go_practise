@@ -1,1 +1,1 @@
-# go_practise
+# Collection of solving of some tasks
